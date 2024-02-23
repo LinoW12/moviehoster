@@ -1,5 +1,5 @@
 {
   "server": {
-    "basePath": "/backend"
+    "basePath": "postgresql://localhost:5432"
   }
 }
